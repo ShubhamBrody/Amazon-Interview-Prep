@@ -27,3 +27,4 @@ int main() {
     cout << solve({5,24,39,60,15,28,27,40,50,90}) << endl;
     cout << solve({5,10,1,11}) << endl;
 }
+
