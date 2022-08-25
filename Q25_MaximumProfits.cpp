@@ -22,3 +22,4 @@ int main() {
     cout << solve({20,580,420,900}, 3) << endl;
     cout << solve({100,90,80,50,25},1) << endl;
 }
+
